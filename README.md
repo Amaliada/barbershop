@@ -15,6 +15,6 @@ Built using only **HTML5**, this project is ideal for beginner-level frontend pr
 - Fully structured to be styled with external CSS (next step)
 
  ## Author
-Bodea dana ramona
-GitHub Profile github.com/Amaliada
-LinkedIn  linkedin.com/in/dana-bodea-0aa3262a6
+- Bodea Dana Ramona
+- GitHub Profile github.com/Amaliada
+- LinkedIn  linkedin.com/in/dana-bodea-0aa3262a6
